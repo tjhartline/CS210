@@ -1,0 +1,3 @@
+﻿  CornerGroceryTrackingApp.cpp
+C:\Users\ws_tammy.hartline\OneDrive - SNHU\Desktop\CS210 Enviro\CornerGroceryTrackingApp\CornerGroceryTrackingApp.cpp(221,6): warning C4101: 'itemReturnValue': unreferenced local variable
+C:\Users\ws_tammy.hartline\OneDrive - SNHU\Desktop\CS210 Enviro\CornerGroceryTrackingApp\CornerGroceryTrackingApp.cpp(220,6): warning C4101: 'itemCount': unreferenced local variable
