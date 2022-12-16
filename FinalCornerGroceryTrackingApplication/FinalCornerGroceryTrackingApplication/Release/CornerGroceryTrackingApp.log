@@ -1,0 +1,9 @@
+﻿  CornerGroceryTrackingApp.cpp
+C:\Users\ws_tammy.hartline\OneDrive - SNHU\Desktop\CS210 Enviro\CornerGroceryTrackingApp\FinalCornerGroceryTrackingApplication\CornerGroceryTrackingApp.cpp(221,6): warning C4101: 'itemReturnValue': unreferenced local variable
+C:\Users\ws_tammy.hartline\OneDrive - SNHU\Desktop\CS210 Enviro\CornerGroceryTrackingApp\FinalCornerGroceryTrackingApplication\CornerGroceryTrackingApp.cpp(220,6): warning C4101: 'itemCount': unreferenced local variable
+  Generating code
+  191 of 198 functions (96.5%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CornerGroceryTrackingApp.vcxproj -> C:\Users\ws_tammy.hartline\OneDrive - SNHU\Desktop\CS210 Enviro\CornerGroceryTrackingApp\FinalCornerGroceryTrackingApplication\Release\CornerGroceryTrackingApp.exe
